@@ -106,15 +106,15 @@ if (a < 24 && b < 60 && c < 60)
 <tr><td>Use correct markdown to show colorfull code</td><td>
 
 ```cpp
-\`\`\`cpp
+```cpp
 int main()
 {
     cout << "Helloworld";
 }
-\`\`\`
+\```
 
 and for single line:
-\`cout << "Helloworld";\`
+\`cout << "Helloworld";`
 ```
 
 </td><td>
