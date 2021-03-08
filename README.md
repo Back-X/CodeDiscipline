@@ -135,7 +135,7 @@ cout << "Helloworld";
 
 ```cpp
 //This code do xxxx
-//This can xxxx as well but I prefer it give xxxx performance
+//It give xxxx performance
 ```
 
 </td><td>
