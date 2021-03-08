@@ -60,13 +60,13 @@ foo(24);
 
 <tr><td>Avoid non sensable variable names</td><td>
 
-```cpp
+```csharp
 var Msg = MessageBox.Show("Helloworld");
 ```
 
 </td><td>
 
-```cpp
+```csharp
 var gugUT7T8yKHhg87Y = MessageBox.Show("Helloworld");
 ```
 
@@ -181,7 +181,7 @@ This is single comment
 
 <tr><td>Prefer ease than simplicity to show better understandale code</td><td>
 
-```cpp
+```csharp
 var Message = "This is Message";
 String str = "This is string";
 Int integer = "This is integer";
@@ -189,7 +189,7 @@ Int integer = "This is integer";
 
 </td><td>
 
-```cpp
+```csharp
 var m1 = "This is m1";String m2 = "This is m2";Int m3 = "This is m3";
 ```
 
