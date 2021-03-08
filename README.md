@@ -91,13 +91,13 @@ if (string != "")
 <tr><td>Variable name should describe its identity</td><td>
 
 ```cpp
-if (hours < 24 && minutes < 60 && seconds < 60)
+if (hours < 24 && minutes < 60)
 ```
 
 </td><td>
 
 ```cpp
-if (a < 24 && b < 60 && c < 60)
+if (a < 24 && b < 60)
 ```
 
 </td></tr>
